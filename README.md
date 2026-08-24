@@ -80,7 +80,7 @@ Three things this gives you that a plain dict doesn't:
 
 ## License
 
-MIT. Do whatever; mention where it came from.
+MIT — see [LICENSE](LICENSE). Do whatever; mention where it came from.
 
 ---
 
